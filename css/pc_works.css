@@ -1,0 +1,251 @@
+@charset "UTF-8";
+/*ヘッダー*/
+.header_logo{
+    margin: 0 60px;
+    width: 60px;
+    height: auto;
+}
+
+/*コンテンツ*/
+.works_pc{
+    text-align: center;
+}
+.heading {
+    margin: 0 30px;
+    padding-top: 160px;
+}
+
+.heading_category {
+    display: block;
+    font-size: 1.5em;
+    padding-bottom: 20px;
+}
+
+.heading_tltle {
+    font-size: 2.4em;
+}
+
+.mainvisual_img01 {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.mainvisual_layout {
+    margin: 0 120px;
+    padding-top: 80px;
+    font-size: 1em;
+    line-height: 50px;
+}
+
+/*横スクロール*/
+.side-scroll-heading{
+    margin-top: -130px;
+}
+
+.heading_en{
+    font-size: 4em;
+}
+
+.heading_jp{
+    font-size: 1em;
+    padding-top: 20px
+}
+
+.side-scroll-list-wrapper {
+    height: 800px;
+}
+
+.side-scroll-list {
+    gap: 0 200px;
+}
+
+.side-scroll-item {
+    display: flex;
+    width: 300px;
+    height: 420px;
+    color: #fff;
+}
+
+.mainvisual_img{
+    display: block;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.side-scroll-tltle{
+    display: flex;
+    padding-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.side-scroll-text{
+    line-height: 30px;
+}
+
+.side-scroll-tltle01{
+    padding-top: 40px;
+    font-size: 1.3em;
+}
+
+/*横スクロールここまで*/
+.works_pc02{
+    margin: 0 120px;
+}
+
+.mainvisual_color{
+    width: 50%;
+    margin: 0 25%;
+    margin-bottom: 160px;
+}
+
+.contents-grid {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px; /* 要素間の間隔を調整 */
+    width: 50%;
+    margin: 0 auto;
+}
+
+.contents02 {
+    padding: 10px; /* 内部の余白を調整（オプション） */
+    text-align: center;
+}
+
+.contents_tltle {
+    font-weight: bold; /* タイトルのテキストを太字にする（オプション） */
+    display: block;
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 20px;
+}
+
+.contents_text{
+    font-size: 1em;
+}
+
+
+/*作品画像調整*/
+.mainvisual_img03 {
+    padding: 160px 0;
+    margin: 0 120px;
+}
+
+.img01,
+.img02 {
+    width: 25%;
+    margin: 0 auto;
+}
+
+.img03{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.mainvisual_img04{
+    display: flex;
+}
+
+.img04{
+    margin-top: -40px;
+}
+
+.mainvisual_img06 img{
+    margin: 20px;
+}
+
+.img_pc,
+.img_pc02{
+    display: flex;
+    width: 50%;
+    margin: -20px;
+}
+
+.mainvisual_img07 {
+    margin: 0 25%;
+}
+
+/*フッター*/
+/*works*/
+.works_list{
+    margin: 0 120px;
+    width: 85%;
+}
+
+.works_list-category00 {
+    font-size: 1.3em;
+}
+
+.works_list-category {
+    font-size: 1.3em;
+}
+
+.works_list00
+,.works_list01
+,.works_list02
+,.works_list03{
+    display: flex;
+    margin: 0 -10px;
+}
+
+.works_list01
+,.works_list02
+,.works_list03{
+    width: 67.5%;
+}
+
+.works_list77{
+    width: 32.5%;
+}
+
+.works_list04{
+    display: flex;
+    width: 67%;
+}
+
+.works_list-link{
+    width: 50%;
+    margin: 0 10px;
+}
+
+.works_list-image00{
+    padding-right: 20px;
+}
+
+
+
+
+
+footer {
+    margin-top: 160px;
+}
+
+.cotact_inner {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.contact_title {
+    font-size: 1.6em;
+    padding-bottom: 30px;
+    margin-left: -440px;
+}
+
+.contact_link {
+    font-size: 2em;
+}
+
+.footer_container{
+    height: 150px;
+}
+
+.page-top{
+    margin-top: 35px;
+}
+
+.footer_copyright {
+    text-align: left;
+    margin-top: -60px;
+    padding-left: 30px;
+    font-size: 0.2em;
+}

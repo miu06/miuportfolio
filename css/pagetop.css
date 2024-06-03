@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*リンクの形状*/
+.page-top{
+    float: right;
+}
+
+#page-top a{
+    display: block;
+    padding: 20px;
+    margin: 0 30px;
+	color: #fff;
+	font-size:0.8rem;
+	transition:all 0.3s;
+}
+
+#page-top a:hover{
+	color: #777;
+}

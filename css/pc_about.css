@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/*ヘッダー*/
+.header_logo{
+    margin: 0 60px;
+    padding-top: 30px;
+    width: 60px;
+    height: auto;
+}
+
+/*コンテンツ*/
+h2 {
+    padding-top: 160px;
+    font-size: 4em;
+}
+
+.mainvisial_pc{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.heading_img{
+    padding: 80px;
+}
+
+.mainvisial_pc02{
+    display: block;
+}
+
+h3{
+    text-align: left;
+    padding: 120px 0 40px;
+}
+
+.heading_description{
+    margin-right: 120px;
+    font-size: 1em;
+    line-height: 40px;
+    margin-left: -0px;
+}
+
+.contents00{
+    display: flex;
+}
+
+.contents01{
+    margin-left: 120px;
+    padding-right: 30px;
+}
+
+.contents{
+    padding: 0 30px;
+}
+
+h4{
+    font-size: 1em;
+    padding-bottom: 20px;
+}
+
+.heading_list-item{
+    padding: 15px 0;
+}
+
+/*フッター*/
+footer {
+    margin-top: 160px;
+}
+
+.cotact_inner {
+    padding-top: 90px;
+    text-align: center;
+}
+
+.contact_title {
+    font-size: 1.6em;
+    padding-bottom: 30px;
+    margin-left: -440px;
+}
+
+.contact_link {
+    font-size: 2em;
+}
+
+.footer_container{
+    height: 150px;
+}
+
+.page-top{
+    margin-top: 35px;
+}
+
+.footer_copyright {
+    text-align: left;
+    margin-top: -60px;
+    padding-left: 30px;
+    font-size: 0.2em;
+}

@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/*ヘッダー*/
+.header_logo{
+    margin: 0 60px;
+    padding-top: 30px;
+    width: 60px;
+    height: auto;
+}
+
+/*コンテンツ*/
+h1 {
+    margin: 0 120px;
+    font-size: 2em;
+    width: 30%;
+}
+
+.mainvisual_copy05{
+    margin: 0 120px;
+    font-size: 1.5em;
+}
+
+/*about*/
+h2 {
+    margin: 0 120px;
+    padding-top: 240px;
+}
+
+.about {
+    padding-top: 240px;
+}
+
+.heading_en {
+    font-size: 4em;
+}
+
+.heading_jp {
+    font-size: 1.3em;
+    margin-left: 20px;
+}
+
+.about_pc{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.about_img img{
+    width: 50%;
+    margin: 0 120px;
+}
+
+.about_pc02{
+    display: block;
+}
+
+.about_name{
+    text-align: left;
+    font-size: 1.3em;
+    margin-top: 50px;
+}
+
+.about_description{
+    font-size: 1em;
+    line-height: 40px;
+    width: 80%;
+    margin-left: -20px;
+}
+
+.about_button-wrapper {
+    font-size: 1.5em;
+    margin-right: 150px;
+    margin-top: -120px;
+}
+
+/*works*/
+.works_list{
+    margin: 0 120px;
+    width: 85%;
+}
+
+.works_list-category00 {
+    font-size: 1.3em;
+}
+
+.works_list-category {
+    font-size: 1.3em;
+}
+
+.works_list00
+,.works_list01
+,.works_list02
+,.works_list03{
+    display: flex;
+    margin: 0 -10px;
+}
+
+.works_list01
+,.works_list02
+,.works_list03{
+    width: 67.5%;
+}
+
+.works_list-link{
+    width: 50%;
+    margin: 0 10px;
+}
+
+.works_list-image00{
+    padding-right: 20px;
+}
+
+/*フッター*/
+footer {
+    margin-top: 160px;
+}
+
+.cotact_inner {
+    padding-top: 90px;
+    text-align: center;
+}
+
+.contact_title {
+    font-size: 1.6em;
+    padding-bottom: 30px;
+    margin-left: -440px;
+}
+
+.contact_link {
+    font-size: 2em;
+}
+
+.footer_container{
+    height: 150px;
+}
+
+.page-top{
+    margin-top: 35px;
+}
+
+.footer_copyright {
+    text-align: left;
+    margin-top: -60px;
+    padding-left: 30px;
+    font-size: 0.2em;
+}
