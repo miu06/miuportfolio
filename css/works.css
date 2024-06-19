@@ -266,6 +266,25 @@ footer,
     padding: 20px 0;
 }
 
+.contents03 {
+    margin: 0 30px;
+    padding: 20px 0;
+}
+
+.contents_tltle02 {
+    display: flex;
+    font-size: 1.2em;
+    padding-bottom: 10px;
+}
+
+.contents_text02 {
+    font-size: 0.8em;
+    line-height: 25px;
+}
+
+.contents_cube {
+}
+
 /*作品画像調整*/
 .mainvisual_img03 {
     display: block;
@@ -297,18 +316,17 @@ footer,
 }
 
 .img05,
-.img06 {
+.img08 {
     width: 50%;
     margin: 0 10px;
 }
 
-.mainvisual_img06 {
+.mainvisual_img08 {
     display: block;
     margin: 0 30px;
 }
 
-.mainvisual_img06,
-img {
+.mainvisual_img08 img {
     margin-top: 40px;
 }
 
