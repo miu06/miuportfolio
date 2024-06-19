@@ -266,23 +266,23 @@ footer,
     padding: 20px 0;
 }
 
-.contents03 {
-    margin: 0 30px;
-    padding: 20px 0;
-}
-
 .contents_tltle02 {
     display: flex;
     font-size: 1.2em;
     padding-bottom: 10px;
+    margin: 0 30px;
+    padding: 20px 0;
 }
 
 .contents_text02 {
     font-size: 0.8em;
     line-height: 25px;
+    margin: 0 30px;
+    padding: 20px 0;
 }
 
-.contents_cube {
+#cubeContainer {
+    margin-top: 100px;
 }
 
 /*作品画像調整*/
