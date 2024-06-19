@@ -149,7 +149,9 @@
 }
 
 
-/*作品画像調整*/
+/* 作品画像調整 */
+
+/* 横浜中華街、 寿司 */
 .mainvisual_img03 {
     padding: 160px 0;
     margin: 0 120px;
@@ -161,32 +163,50 @@
     margin: 0 auto;
 }
 
-.img03{
-    width: 50%;
-    margin: 0 auto;
+.mainvisual_img07 {
+    margin: 0 25%;
 }
 
-.mainvisual_img04{
-    display: flex;
-}
-
-.img04{
-    margin-top: -40px;
-}
-
-.mainvisual_img06 img{
-    margin: 20px;
-}
-
+/* パーソナルジム */
 .img_pc,
 .img_pc02{
     display: flex;
     width: 50%;
-    margin: -20px;
+    margin: -60px;
 }
 
-.mainvisual_img07 {
-    margin: 0 25%;
+.img_pc img,
+.img_pc02 img{
+    text-align: center;
+    padding: 40px;
+}
+
+/* 木月こどもキッチン、Melanger、ポートフォリオ、スペース情報 */
+.mainvisual_img05 {
+    display: flex;
+}
+
+.img05{
+    width: 50%;
+    margin-left: 120px;
+}
+
+.mainvisual_img04{
+    width: 50%;
+}
+
+.img03 {
+    margin-right: 20px;
+}
+
+.img04 {
+    margin-left: 20px;
+}
+
+/* 空き家 */
+.img07{
+    width: 50%;
+    margin: 0 auto;
 }
 
 /*フッター*/
